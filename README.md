@@ -1,7 +1,7 @@
 ### Oi me chamo Jonathas Lima, mas pode me chamar de Jhonny.🖖
 ### Sou estudante em análise e desenvolvimento de sistemas, na Unicsul. 👨‍🎓
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-lima-753307269/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-lima-jhonnydev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Jonathaslimaa GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathaslimaa&show_icons=true&theme=tokyonight)
