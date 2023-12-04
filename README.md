@@ -1,4 +1,4 @@
-### Oi me chamo Jonathas Lima, mas pode me chamar de Jhonny.🖖
+### Oi me chamo Jonathas Lima, mas pode me chamar de Jhonny.
 ### Sou estudante em análise e desenvolvimento de sistemas, e apaixonado por programação. 👨‍🎓
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-lima-jhonnydev/)
